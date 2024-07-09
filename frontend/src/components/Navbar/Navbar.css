@@ -65,7 +65,7 @@ position: relative;
 .navbar-profile-dropdown{
     position: absolute;
     display: none;
-    left: 0;
+    right: 0;
     z-index: 1;
 }
 .navbar-profile-dropdown li{
