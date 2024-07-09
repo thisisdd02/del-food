@@ -19,7 +19,6 @@ QuickBites is a full-stack web application that enables users to browse through 
 ## Features
 - **User Authentication**: Secure login and registration system.
 - **Restaurant Browsing**: Explore a variety of restaurants and their menus.
-- **Search and Filter**: Easily search for dishes and filter results based on categories, ratings, and more.
 - **Order Placement**: Simple and intuitive process for placing orders.
 - **Order Tracking**: Real-time tracking of orders from preparation to delivery.
 - **Payment Gateway**: Secure payment processing.
@@ -48,8 +47,8 @@ QuickBites is a full-stack web application that enables users to browse through 
   - Stripe: For handling payments.
   
 - **Other Tools**:
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  - Postman: For API testing.
+![Thunder client]
+  - thunder client: For API testing.
   - Git: For version control.
   - Vercel: For deployment (optional).
 
