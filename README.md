@@ -1,4 +1,4 @@
-# QuickBites
+# FoodyFest
 
 ![QuickBites Logo](frontend/src/assets/logo.png)
 
