@@ -50,7 +50,7 @@ QuickBites is a full-stack web application that enables users to browse through 
 ![Thunder client]
   - thunder client: For API testing.
   - Git: For version control.
-  - Vercel: For deployment (optional).
+  - Render: For deployment (optional).
 
 ## Installation
 To get a local copy up and running, follow these simple steps:
@@ -61,13 +61,9 @@ To get a local copy up and running, follow these simple steps:
 
 ### Setup
 
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/quickbites.git
-   cd quickbites
-   ```
 
-2. **Install dependencies for both backend and frontend**:
+
+1. **Install dependencies for both backend and frontend**:
    ```sh
    cd backend
    npm install
@@ -75,7 +71,7 @@ To get a local copy up and running, follow these simple steps:
    npm install
    ```
 
-3. **Set up environment variables**:
+2. **Set up environment variables**:
    Create a `.env` file in the `backend` directory and add the following:
    ```env
    MONGO_URI=your_mongo_db_uri
@@ -93,7 +89,7 @@ To get a local copy up and running, follow these simple steps:
    npm start
    ```
 
-5. **Open your browser** and navigate to `http://localhost:3000` to see the application running.
+5. **Open your browser** and navigate to `http://localhost:5173` to see the application running.
 
 ## Usage
 - **Sign up** and create a user account.
@@ -113,11 +109,7 @@ Contributions are what make the open-source community such an amazing place to l
 5. **Open a Pull Request**.
 
 
-## Contact
-Your Name - [nikhilmehlan1234@gmail.com](mailto:your-nikhilmehlan1234@gmail.com.com)
-
-Project Link: [https://github.com/nikhilmehlann/QuickBites](https://github.com/nikhilmehlann/QuickBites)
 
 ---
 
-Thank you for checking out QuickBites! We hope you enjoy using it as much as we enjoyed building it. Bon appétit!
+Thank you for checking out FoodyFest! We hope you enjoy using it as much as we enjoyed building it. Bon appétit!
